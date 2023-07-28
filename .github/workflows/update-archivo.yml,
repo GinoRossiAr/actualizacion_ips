@@ -2,7 +2,7 @@ name: Actualizar archivo .txt
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
 
 jobs:
   update:
